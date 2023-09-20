@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+li{
+    list-style: none;
+}
+
+/* header */
+
+.header{
+    padding: 24px 370px 24px 370px;
+    
+}
+.header__menu{
+    display: flex;
+    align-items: center;
+}
+
+.header__item{
+    margin-left: 30px; 
+   }
+   .header__logo__1{
+    margin-left: 484px;
+   }
+
+   .intro__pic__2{
+    
+   }
